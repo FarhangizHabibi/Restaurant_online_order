@@ -13,7 +13,7 @@ const Menu = () => {
                 {
                     data[0].dishes.map(element => (
                         <div className="card" key={element.id}>
-                                <img src="https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=600.png" alt={element.title} />
+                                <img src={element.id} alt={element.title} />
                                 <h3>{element.title}</h3>
                                 <button>{element.category}</button>
                         </div>
