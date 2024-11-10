@@ -16,7 +16,7 @@ const Footer = () => {
             <p>Developed By FarhangizHabibi</p>
           </div>
           <div className="right">
-            <p>All Rights Reserved By JanithNanayakkara.</p>
+            <p>All Rights Reserved.</p>
           </div>
         </div>
       </div>
