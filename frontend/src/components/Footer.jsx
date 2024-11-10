@@ -8,12 +8,12 @@ const Footer = () => {
           <div className="left">Mondays pizza & Restaurant</div>
           <div className="right">
             <p>Goviyapana, Ahangama.</p>
-            <p>Open: 08:00 AM - 5:00 PM</p>
+            <p>Open: 03:00 AM - 5:00 PM</p>
           </div>
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By NewGenius</p>
+            <p>Developed By FarhangizHabibi</p>
           </div>
           <div className="right">
             <p>All Rights Reserved By JanithNanayakkara.</p>
