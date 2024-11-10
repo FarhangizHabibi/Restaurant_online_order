@@ -13,8 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-            We pride ourselves on bringing the best pizza to the heart of Ahangama. 
-             We also offer a daily assortment of fresh baked goods and our Award Winning Chocolate Chip Cookies. 
+            pizza is a very delicious and foreign food that is made with chicken, eggplant, pepper, garlic, onion, salt, oil.. 
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
