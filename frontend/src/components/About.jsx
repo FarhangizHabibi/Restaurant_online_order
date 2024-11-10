@@ -13,7 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-            We pride ourselves on bringing the best coffee to the heart of Ahangama. 
+            We pride ourselves on bringing the best pizza to the heart of Ahangama. 
              We also offer a daily assortment of fresh baked goods and our Award Winning Chocolate Chip Cookies. 
             </p>
             <Link to={"/"}>
